@@ -386,7 +386,6 @@ footer{
     .cards .card{
         height: 100px;
         display: flex;
-        margin-botton: 1px;
         flex-direction: column;
         align-items: center;
     }
